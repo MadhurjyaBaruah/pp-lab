@@ -1,0 +1,8 @@
+Date: 12-02-2025
+
+15. Write a Python function to multiply all the numbers in a list.
+16. Check if a number is perfect.
+17. Create a function that checks if a passed string is a palindrome or not.
+18. Write a Python program to check if a passed string is a pangram or not.
+19. Calculate the sum of the digits of a number.
+20. Generate a list of four random numbers.
