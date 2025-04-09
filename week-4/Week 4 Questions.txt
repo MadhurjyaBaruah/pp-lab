@@ -1,0 +1,5 @@
+Exercise programs on operators & I/O operations.
+a) Write a program that takes 2 numbers as command line arguments and prints its sum.
+b) Implement python script to show the usage of various operators available in python language.
+c) Implement python script to read person’s age from keyboard and display whether he is eligible for voting or not.
+d) Implement python script to check the given year is leap year or not.
