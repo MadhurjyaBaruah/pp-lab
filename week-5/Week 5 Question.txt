@@ -1,0 +1,7 @@
+III. Exercise programs on Python Script.
+a) Implement Python Script to generate first N natural numbers.
+b) Implement Python Script to check given number is palindrome or not.
+c) Implement Python script to print factorial of a number.
+d) Implement Python Script to print sum of N natural numbers.
+e) Implement Python Script to check given number is Armstrong or not.
+f) Implement Python Script to generate prime numbers series up to n.
